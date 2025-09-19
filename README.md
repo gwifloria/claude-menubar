@@ -17,13 +17,15 @@ A macOS menubar application that monitors Claude AI sessions and displays their 
 ## Installation
 
 1. Install [SwiftBar](https://swiftbar.app/) if you haven't already:
+
    ```bash
    brew install --cask swiftbar
    ```
 
 2. Clone this repository:
+
    ```bash
-   git clone https://github.com/yourusername/claude-menubar.git
+   git clone https://github.com/gwifloria/claude-menubar
    cd claude-menubar
    ```
 
