@@ -1,0 +1,35 @@
+{
+  "projects": [
+    {
+      "project": "my-react-app",
+      "status": "executing",
+      "timestamp": "2024-09-18T11:30:00.000Z",
+      "command": "claude help with ui components"
+    },
+    {
+      "project": "api-backend",
+      "status": "waiting_confirmation",
+      "timestamp": "2024-09-18T11:25:00.000Z",
+      "command": "claude fix database connection"
+    },
+    {
+      "project": "mobile-app",
+      "status": "completed",
+      "timestamp": "2024-09-18T10:45:00.000Z",
+      "command": null
+    },
+    {
+      "project": "data-analysis",
+      "status": "error",
+      "timestamp": "2024-09-18T10:30:00.000Z",
+      "command": "claude analyze dataset"
+    },
+    {
+      "project": "docs-website",
+      "status": "idle",
+      "timestamp": "2024-09-18T09:15:00.000Z",
+      "command": null
+    }
+  ],
+  "lastUpdate": "2024-09-18T11:30:00.000Z"
+}
